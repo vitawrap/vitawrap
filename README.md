@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/qe_logo_anim.gif"><br>
+  <img src="https://github.com/vitawrap/vitawrap/blob/master/qe_logo_anim.gif"><br>
 </p>
 
 
