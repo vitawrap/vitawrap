@@ -4,7 +4,7 @@
 <hr/>
 Here's <a href="https://viwrap.zip/">my website</a>
 <hr/>
-Small contributions for projects such as
+Small contributions to projects such as
 <ul>
   <li>Irrlicht</li>
   <li>Code::Blocks</li>
