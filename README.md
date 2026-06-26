@@ -2,7 +2,7 @@
   <img src="https://github.com/vitawrap/vitawrap/blob/master/header_gif.gif"><img src="https://github.com/vitawrap/vitawrap/blob/master/logogray.png">
 </p>
 <hr/>
-Here's <a href="https://viwrap.zip/">my website</a>
+Here's <a href="https://viwrap.zip/">my website</a> --- I am a C/C++/JS/Python programmer from France 🇫🇷
 <hr/>
 Small contributions to projects such as
 <ul>
